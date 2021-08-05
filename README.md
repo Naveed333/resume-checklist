@@ -24,3 +24,5 @@ sites :
 https://www.resumemaker.online/
 
 https://www.jobscan.co/results/1
+
+https://www.cakeresume.com/
